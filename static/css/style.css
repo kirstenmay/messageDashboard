@@ -1,0 +1,34 @@
+h1 {
+    font-weight: 80;
+}
+
+h5 {
+    font-weight: 70;
+    font-size: 2.5vw;
+}
+
+form {
+    margin: 20px 0;
+}
+
+#margin {
+    border-top: 1px solid gray;
+    margin: 20px 0;
+}
+
+.display-4 {
+    margin: 20px 0;
+}
+
+.card {
+    margin-top: 20px;
+    background-color: rgba(191, 216, 189, 0.507);
+}
+
+.col-1 {
+    margin-top: 35px;
+}
+
+.btn {
+    margin-right: 20px;
+}
